@@ -1,32 +1,44 @@
-# Zakaria Bouri — Full-Stack Developer & Software Architecture
+# Full-Stack Developer Portfolio
 
-I design and develop web applications, REST APIs, and business software using **Laravel / PHP, React, Next.js, TypeScript, and Node.js / NestJS**.
+### Zakaria Bouri | Laravel · React · Next.js · NestJS · REST APIs
 
-I also work on **system conception, software architecture, modular design, and the choice of design patterns** in collaborative projects. I enjoy improving existing systems: clarifying their architecture, fixing bugs, building API integrations, and making interfaces easier to use.
+I build and improve web applications, business tools, admin dashboards, and API integrations. My work covers **backend and frontend implementation**, as well as **software conception, architecture, modular design, and design-pattern selection** in collaborative projects.
 
-> **Available for freelance projects:** backend development, frontend features, API integrations, debugging, and application modernization. Contact me via [GitHub](https://github.com/zakibox).
+**Open to freelance projects:** Laravel bug fixes and features, REST APIs, React/Next.js interfaces, full-stack development, and application modernization.
 
-## Selected work
+## Featured projects
 
-| Project | Stack | Scope and contribution |
+| Project | Stack | What it demonstrates |
 | --- | --- | --- |
-| [Full-stack e-commerce platform](case-studies/ecommerce-platform.md) | NestJS, React, TypeScript, MySQL | Collaborative project; system conception and architecture/design-pattern work. Includes customer site, backoffice, and API. |
-| [University examinations management](case-studies/examinations-app.md) | Laravel 12, React, Inertia.js | Collaborative project; architecture/design work and [verifiable application contributions](https://github.com/HamzaEzziymy/examensApp/commits?author=zakibox). |
-| [ArchiveSmart](case-studies/archivesmart.md) | Laravel 13, React, Redux Toolkit | Collaborative document-management project; system conception and design-pattern work. |
-| [Fes Desert Trips redesign](case-studies/fes-desert-trips.md) | Laravel 11, Blade, JavaScript | Private-code website redesign and documented test/audit process. |
-| [Tawilaty B2B storefront](case-studies/tawilaty.md) | Next.js, React, TypeScript | Private-code school furniture catalog, product configurator, cart, and chatbot API. |
+| [Full-stack e-commerce platform](case-studies/ecommerce-platform.md) | NestJS · TypeScript · React · MySQL | Team project with backend, storefront and backoffice; architectural conception and design work |
+| [University examinations management](case-studies/examinations-app.md) | Laravel · React · Inertia.js | Academic management workflows, architecture work, and [attributed code changes](https://github.com/HamzaEzziymy/examensApp/commits?author=zakibox) |
+| [ArchiveSmart](case-studies/archivesmart.md) | Laravel · React · Redux Toolkit | Document management, access control, REST APIs; team architecture/design work |
+| [Fes Desert Trips redesign](case-studies/fes-desert-trips.md) | Laravel · Blade · JavaScript | Multilingual website redesign, accessibility, and automated testing |
+| [Tawilaty B2B storefront](case-studies/tawilaty.md) | Next.js · React · TypeScript | Customizable products, bilingual interface, shopping cart and AI chatbot endpoint |
 
-## What I can build or improve
+## Services
 
-- **Backend:** Laravel/PHP applications, REST APIs, CRUD, authentication, database-backed workflows.
-- **Frontend:** React, Next.js, TypeScript, responsive dashboards, multilingual interfaces.
-- **Full-stack:** API integrations, administration tools, e-commerce flows, maintenance and debugging.
-- **Architecture:** requirements decomposition, module boundaries, frontend/backend integration, and design-pattern selection.
+- **Laravel / PHP:** fix bugs, build modules, develop CRUD APIs, authentication and database-backed business workflows.
+- **React / Next.js:** build responsive frontends, management dashboards, reusable components and localized interfaces.
+- **API integration:** connect backend and frontend systems, integrate third-party services, improve data flow.
+- **Software architecture:** break down requirements, design module boundaries and interfaces, improve maintainability.
+- **Full-stack maintenance:** troubleshoot existing applications, improve features and modernize web projects.
 
-For confidential or team projects, these are **case studies, not claims of sole code ownership**. Each case study distinguishes the repository's demonstrated features from my stated responsibilities. Some source repositories belong to collaborators; some are private and are not redistributed here.
+## Technical toolkit
 
-## Work with me
+**Frontend:** React, Next.js, Vue.js, TypeScript, JavaScript, HTML/CSS, Tailwind CSS  
+**Backend:** Laravel, PHP, Python/Django, Node.js/NestJS, REST APIs  
+**Data:** MySQL, PostgreSQL, relational data modeling  
+**Workflow:** Git, GitHub, API testing, automated tests
 
-Please include your **project goal, current tech stack, scope, deadline, and budget** when contacting me. I can help scope a small first task before agreeing on a larger engagement.
+## Collaboration and ownership
 
-*This portfolio describes work visible in accessible repositories and responsibilities reported by the contributor. Availability, delivery terms, and individual implementation ownership should be confirmed per engagement.*
+Some featured projects are team collaborations and some source repositories are private. Case studies describe the implemented system and my role without claiming sole authorship or publishing confidential code. Production readiness is identified where relevant.
+
+## Let's work together
+
+I am interested in well-scoped freelance work, including small fixes and integrations as well as longer-running products. Include your current stack, the problem to solve, timeframe and budget when reaching out.
+
+**GitHub:** [github.com/zakibox](https://github.com/zakibox)  
+**Profile README:** A copy-ready version is available at [github-profile/README.md](github-profile/README.md).
+
