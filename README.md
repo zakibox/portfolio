@@ -39,6 +39,5 @@ Some featured projects are team collaborations and some source repositories are 
 
 I am interested in well-scoped freelance work, including small fixes and integrations as well as longer-running products. Include your current stack, the problem to solve, timeframe and budget when reaching out.
 
-**GitHub:** [github.com/zakibox](https://github.com/zakibox)  
-**Profile README:** A copy-ready version is available at [github-profile/README.md](github-profile/README.md).
+**GitHub profile:** [github.com/zakibox](https://github.com/zakibox) — portfolio highlights displayed on my public profile.
 
