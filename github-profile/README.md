@@ -13,8 +13,8 @@ I build web applications and business software with **Laravel, React, Next.js, V
 | [E-commerce platform](https://github.com/bouzidi48/projet) | NestJS, React, TypeScript | Collaborative project: system conception and software architecture/design work |
 | [University examinations application](https://github.com/HamzaEzziymy/examensApp) | Laravel, React, Inertia.js | Architecture/design work and [attributed commits](https://github.com/HamzaEzziymy/examensApp/commits?author=zakibox) |
 | [ArchiveSmart](https://github.com/Yassir-20005/ArchiveSmart) | Laravel, React, REST APIs | Collaborative system conception and design work |
-| [Fes Desert Trips redesign](https://github.com/zakibox/project-take/blob/main/case-studies/fes-desert-trips.md) | Laravel, JavaScript | Web redesign, accessible UI and automated test coverage |
-| [Tawilaty storefront](https://github.com/zakibox/project-take/blob/main/case-studies/tawilaty.md) | Next.js, TypeScript | B2B product customization, storefront and chatbot API |
+| [Fes Desert Trips redesign](https://github.com/zakibox/portfollio/blob/main/case-studies/fes-desert-trips.md) | Laravel, JavaScript | Web redesign, accessible UI and automated test coverage |
+| [Tawilaty storefront](https://github.com/zakibox/portfollio/blob/main/case-studies/tawilaty.md) | Next.js, TypeScript | B2B product customization, storefront and chatbot API |
 
 ## What I work with
 
@@ -23,7 +23,7 @@ I build web applications and business software with **Laravel, React, Next.js, V
 **Databases:** MySQL · PostgreSQL  
 **Engineering:** Application architecture · modular design · Git/GitHub · API testing
 
-📁 **[Explore my portfolio & detailed case studies](https://github.com/zakibox/project-take)**
+📁 **[Explore my portfolio & detailed case studies](https://github.com/zakibox/portfollio)**
 
 I enjoy solving practical business problems, from targeted bug fixes and API integrations to full-stack web apps. For project inquiries, reach out through the contact links on my GitHub profile.
 
